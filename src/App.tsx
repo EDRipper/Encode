@@ -23,7 +23,7 @@ function App() {
       
         Trick Euan, Win his fortune...
         
-        Encode a sectret message with a cypher or steganography, Make me waste my time figuring it out, The more time I spend the more you win!
+        Encode a secret message with a cypher or steganography, Make me waste my time figuring it out, The more time I spend the more you win!
       
       </ScrambledText>
 
